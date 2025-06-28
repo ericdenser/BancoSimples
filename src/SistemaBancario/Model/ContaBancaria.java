@@ -1,4 +1,4 @@
-package SistemaBancario.Detalhes;
+package SistemaBancario.Model;
 
 import java.util.Scanner;
 

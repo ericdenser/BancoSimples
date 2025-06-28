@@ -1,6 +1,6 @@
 package SistemaBancario;
 import java.util.Scanner;
-import SistemaBancario.Detalhes.ContaCorrente;
+import SistemaBancario.Model.ContaCorrente;
 import static java.lang.System.exit;
 
 

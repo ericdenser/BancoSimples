@@ -1,4 +1,4 @@
-package SistemaBancario.Detalhes;
+package SistemaBancario.Model;
 
 public class ContaCorrente extends ContaBancaria {
     private double taxaJuros = 0.01;
